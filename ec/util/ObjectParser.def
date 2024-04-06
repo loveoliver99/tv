@@ -1,4 +1,0 @@
-JAVA.serializer=com.evangelsoft.econnect.util.JavaObjectSerializer
-JAVA.deserializer=com.evangelsoft.econnect.util.JavaObjectDeserializer
-UNIVERSAL.serializer=com.evangelsoft.econnect.util.UniversalObjectSerializer
-UNIVERSAL.deserializer=com.evangelsoft.econnect.util.UniversalObjectDeserializer
